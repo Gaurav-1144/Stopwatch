@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+.container .row {
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 12%;
+}
+#hr{
+    font-size: 100px;
+}
+.container .row #min{
+    font-size: 100px;
+}
+.container .row #sec{
+    font-size: 100px;
+}
+
+.container .row #count{
+    font-size: 100px;
+}
+
+.action{
+    text-align: center;
+}
+
+.action #btn-start{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.action #btn-stop{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.action #btn-reset{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
